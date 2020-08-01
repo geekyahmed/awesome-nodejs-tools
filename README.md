@@ -1,5 +1,6 @@
-# awesome-nodejs-tools
-A collection of awesome nodejs tools for developers
+# Awesome-Nodejs-Tools
+
+Here is a awesome list of nodejs tools for both developers looking forward to learning nodejs and developers who have experience in Nodejs.
 
 
 # Testing
@@ -11,31 +12,42 @@ A collection of awesome nodejs tools for developers
 
 # Frameworks
 
+ - [AdonisJS](https://adonisjs.com/) 
+ - [DerbyJS](http://derbyjs.com/)
  - [ExpressJS](https://expressjs.com/)
+ - [FeathersJS](https://feathersjs.com/)
  - [HapiJS](https://hapi.dev/)
- - [NestJS](https://nestjs.com/)
- - [SailsJS](https://sailsjs.com/)
  - [KoaJS](https://koajs.com/)
  - [Loopback](https://loopback.io/)
- - [DerbyJS](http://derbyjs.com/)
- - [TotalJS](https://www.totaljs.com/)
- - [AdonisJS](https://adonisjs.com/)
- - [FeathersJS](https://feathersjs.com/)
+ - [NestJS](https://nestjs.com/)
  - [Restify](http://restify.com/)
+ - [SailsJS](https://sailsjs.com/)
+ - [TotalJS](https://www.totaljs.com/)
  
 # CMS
- - [KeyStoneJS](https://keystonejs.com/)
- - [Cody](http://cody-cms.org/)
- - [Strapi](https://strapi.io/)
+
  - [Apostrophe](https://apostrophecms.com/)
- - [EnduroJS](http://www.endurojs.com/)
  - [Calipso](https://github.com/cliftonc/calipso)
+ - [Cody](http://cody-cms.org/)
+ - [EnduroJS](http://www.endurojs.com/)
+ - [KeyStoneJS](https://keystonejs.com/)
  - [PencilBlue](https://github.com/pencilblue/pencilblue)
- - [Taracot](https://github.com/xtremespb/taracotjs)
  - [Prismic](https://prismic.io/)
+ - [Strapi](https://strapi.io/)
+ - [Taracot](https://github.com/xtremespb/taracotjs)
 
 # Process Manager
 
- - [PM2](https://pm2.keymetrics.io/)
  - [Forever](https://github.com/foreversd/forever)
+ - [PM2](https://pm2.keymetrics.io/)
  - [Supervisord](http://supervisord.org/)
+
+# Web Sockets
+
+ - [Socket.io](https://socket.io/)
+ - [WS](https://github.com/websockets/ws)
+ - [SocksJS-Node](https://github.com/sockjs/sockjs-node)
+ - [WebSocket-Node](https://github.com/theturtle32/WebSocket-Node)
+ - [WebSocket -As-Promised](https://github.com/vitalets/websocket-as-promised)
+
+
