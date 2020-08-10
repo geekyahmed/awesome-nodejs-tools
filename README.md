@@ -14,6 +14,8 @@ Let's connect on [Twitter](https://twitter.com/geekyahmed), [GitHub](https://git
  - [Process Managers](#process-manager)
  - [Testing](#testing)
  - [Websockets](#websockets)
+ - [courses](#courses)
+ - [certifications](#certifications)
 
 ## CMS
 
@@ -77,5 +79,23 @@ Let's connect on [Twitter](https://twitter.com/geekyahmed), [GitHub](https://git
  - [SocksJS-Node](https://github.com/sockjs/sockjs-node)
  - [WebSocket-Node](https://github.com/theturtle32/WebSocket-Node)
  - [WebSocket -As-Promised](https://github.com/vitalets/websocket-as-promised)
+ 
+ ## Courses
+ 
+ - [Udemy](https://udemy.com/topic/nodejs)
+   - [The Complete NodeJS Developer Course - Andrew Mead](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+   - [Learn and Understand NodeJS - Anthony Alicea](https://www.udemy.com/course/understand-nodejs/)
+   - [Nodejs Express - Stefan Hyltoft](https://www.udemy.com/course/nodejs-unit-testing-and-integration-testing-with-express-and-jest/)
+   - [Node.js, Express, MongoDB: The Complete Bootcamp - Jonas S.](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
+   - [Docker for Node.js Projects from a Docker Captain](https://www.udemy.com/course/docker-mastery-for-nodejs/)
+   
+ - [Front End Masters Node Path](https://frontendmasters.com/learn/node-js/)
+ - [Plural Sight - Node Path](https://app.pluralsight.com/paths/skills/node-js)
+ - [Codecademy - Node Path](https://www.codecademy.com/learn/learn-node-js)
+
+## Certification
+ - [Open Js foundations](https://openjsf.org/)
+   - [OpenJS Node.js Services Developer](https://training.linuxfoundation.org/certification/jsnsd/)
+   - [OpenJS Node.js Application Developer](https://training.linuxfoundation.org/certification/jsnad/)
 
 Feel free to contribute!!
