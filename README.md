@@ -94,8 +94,10 @@ Let's connect on [Twitter](https://twitter.com/geekyahmed), [GitHub](https://git
  - [Codecademy - Node Path](https://www.codecademy.com/learn/learn-node-js)
 
 ## Certifications
+
  - [Open Js foundations](https://openjsf.org/)
    - [OpenJS Node.js Services Developer](https://training.linuxfoundation.org/certification/jsnsd/)
    - [OpenJS Node.js Application Developer](https://training.linuxfoundation.org/certification/jsnad/)
+
 
 Feel free to contribute!!
