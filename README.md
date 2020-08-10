@@ -14,8 +14,8 @@ Let's connect on [Twitter](https://twitter.com/geekyahmed), [GitHub](https://git
  - [Process Managers](#process-manager)
  - [Testing](#testing)
  - [Websockets](#websockets)
- - [courses](#courses)
- - [certifications](#certifications)
+ - [Courses](#courses)
+ - [Certifications](#certifications)
 
 ## CMS
 
@@ -93,7 +93,7 @@ Let's connect on [Twitter](https://twitter.com/geekyahmed), [GitHub](https://git
  - [Plural Sight - Node Path](https://app.pluralsight.com/paths/skills/node-js)
  - [Codecademy - Node Path](https://www.codecademy.com/learn/learn-node-js)
 
-## Certification
+## Certifications
  - [Open Js foundations](https://openjsf.org/)
    - [OpenJS Node.js Services Developer](https://training.linuxfoundation.org/certification/jsnsd/)
    - [OpenJS Node.js Application Developer](https://training.linuxfoundation.org/certification/jsnad/)
